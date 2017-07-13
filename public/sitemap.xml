@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/2017/07/07/new-engine/</loc>
+    <lastmod>2017-07-13T14:54:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2017/05/11/quick-update-indieweb-summit-2017/</loc>
+    <lastmod>2017-05-11T00:49:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2017/03/19/what-ive-been-doing-or-what-if-you-start-a-project-and-it-kinda-takes-off-but-doesnt-or-what-if-it-seems-like-you-abandoned-your-own-thing-or-integrating-new-practices-or-day/</loc>
+    <lastmod>2017-03-19T05:30:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2017/01/02/100-days-of-healthing/</loc>
+    <lastmod>2017-01-02T01:57:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/2016/11/13/starting-a-new-wordpress-blog-with-digital-ocean/</loc>
+    <lastmod>2016-11-13T05:53:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/#100daysofhealthing/</loc>
+    <lastmod>2017-03-19T05:30:10+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/digital-ocean/</loc>
+    <lastmod>2016-11-13T05:53:56+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/go-for-it/</loc>
+    <lastmod>2016-11-13T05:53:56+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/how-to/</loc>
+    <lastmod>2016-11-13T05:53:56+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2017-07-13T14:54:51-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/projects/</loc>
+    <lastmod>2017-05-11T00:49:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/site/</loc>
+    <lastmod>2017-07-13T14:54:51-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2017-03-19T05:30:10+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2017-07-13T14:54:51-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/tutorial/</loc>
+    <lastmod>2016-11-13T05:53:56+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/wordpress/</loc>
+    <lastmod>2016-11-13T05:53:56+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

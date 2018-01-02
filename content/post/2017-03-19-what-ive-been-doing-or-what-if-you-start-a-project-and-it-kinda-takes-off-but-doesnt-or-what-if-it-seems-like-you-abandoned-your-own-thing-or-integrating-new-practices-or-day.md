@@ -10,7 +10,7 @@ tags:
   - '#100DaysOfHealthing'
 
 ---
-<img src="http://unfocused.tech/wp-content/uploads/2017/03/public-domain-images-free-stock-photos-high-quality-resolution-downloads-around-the-house-7-768x512.jpg" alt="A nest on top of a stack of books, on a bookshelf" width="660" height="440" class="aligncenter size-medium_large wp-image-40" />
+![image of a nest on top of a stack of books](nest.jpg)
 
 For the first 5 weeks or so of 2017, [I committed a whole lot][1] to my #[100DaysOfHealthing repo][2]. The project buzzed around my head, I set up my work computer to launch Git Bash every day when I logged in, and [folks that I admire][3] even added me to their [own projects][4].
 

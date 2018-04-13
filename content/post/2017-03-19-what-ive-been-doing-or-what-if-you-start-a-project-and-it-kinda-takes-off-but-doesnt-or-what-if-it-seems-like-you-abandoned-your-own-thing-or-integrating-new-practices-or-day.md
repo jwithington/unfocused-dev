@@ -7,7 +7,7 @@ url: /2017/03/19/what-ive-been-doing-or-what-if-you-start-a-project-and-it-kinda
 categories:
   - Projects
 tags:
-  - '#100DaysOfHealthing'
+  - 100DaysOfHealthing
 
 ---
 ![image of a nest on top of a stack of books](nest.jpg)

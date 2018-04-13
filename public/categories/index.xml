@@ -1,20 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The (Un)Focused Dev </title>
+    <title>Categories on The (Un)Focused Dev</title>
     <link>http://unfocused-dev.netlify.com/categories/</link>
+    <description>Recent content in Categories on The (Un)Focused Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author></author>
-    <rights>(C) 2017</rights>
-    <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
-
     
+	<atom:link href="http://unfocused-dev.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projects</title>
+      <link>http://unfocused-dev.netlify.com/categories/projects/</link>
+      <pubDate>Thu, 11 May 2017 00:49:45 +0000</pubDate>
       
+      <guid>http://unfocused-dev.netlify.com/categories/projects/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Site</title>
+      <link>http://unfocused-dev.netlify.com/categories/site/</link>
+      <pubDate>Thu, 13 Jul 2017 14:54:51 -0700</pubDate>
       
+      <guid>http://unfocused-dev.netlify.com/categories/site/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Tutorial</title>
+      <link>http://unfocused-dev.netlify.com/categories/tutorial/</link>
+      <pubDate>Sun, 13 Nov 2016 05:53:56 +0000</pubDate>
       
+      <guid>http://unfocused-dev.netlify.com/categories/tutorial/</guid>
+      <description></description>
+    </item>
     
-
   </channel>
 </rss>

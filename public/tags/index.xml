@@ -1,24 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The (Un)Focused Dev </title>
+    <title>Tags on The (Un)Focused Dev</title>
     <link>http://unfocused-dev.netlify.com/tags/</link>
+    <description>Recent content in Tags on The (Un)Focused Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author></author>
-    <rights>(C) 2017</rights>
-    <updated>2017-03-19 05:30:10 &#43;0000 &#43;0000</updated>
-
+    <lastBuildDate>Sun, 19 Mar 2017 05:30:10 +0000</lastBuildDate>
     
+	<atom:link href="http://unfocused-dev.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>100daysofhealthing</title>
+      <link>http://unfocused-dev.netlify.com/tags/100daysofhealthing/</link>
+      <pubDate>Sun, 19 Mar 2017 05:30:10 +0000</pubDate>
       
+      <guid>http://unfocused-dev.netlify.com/tags/100daysofhealthing/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Digital Ocean</title>
+      <link>http://unfocused-dev.netlify.com/tags/digital-ocean/</link>
+      <pubDate>Sun, 13 Nov 2016 05:53:56 +0000</pubDate>
       
+      <guid>http://unfocused-dev.netlify.com/tags/digital-ocean/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Go for It</title>
+      <link>http://unfocused-dev.netlify.com/tags/go-for-it/</link>
+      <pubDate>Sun, 13 Nov 2016 05:53:56 +0000</pubDate>
       
+      <guid>http://unfocused-dev.netlify.com/tags/go-for-it/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>How To</title>
+      <link>http://unfocused-dev.netlify.com/tags/how-to/</link>
+      <pubDate>Sun, 13 Nov 2016 05:53:56 +0000</pubDate>
       
+      <guid>http://unfocused-dev.netlify.com/tags/how-to/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Wordpress</title>
+      <link>http://unfocused-dev.netlify.com/tags/wordpress/</link>
+      <pubDate>Sun, 13 Nov 2016 05:53:56 +0000</pubDate>
       
+      <guid>http://unfocused-dev.netlify.com/tags/wordpress/</guid>
+      <description></description>
+    </item>
     
-
   </channel>
 </rss>

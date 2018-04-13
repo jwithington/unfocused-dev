@@ -11,7 +11,7 @@ I decided to build (Un)focused Dev in WordPress, thinking that doing so would ma
 
 I was wrong.
 
-All it did was frustrate me, much like I thought it would.
+All it did was frustrate me, much like I thought it would. 😆
 
 So I'm back in Staticland, this time using [Netlify][netlify] and [Hugo][hugo].
 
